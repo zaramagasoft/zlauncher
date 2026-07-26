@@ -1,0 +1,1 @@
+gcc maindrm.c -o zlauncher -I/usr/include/libdrm -ldrm
